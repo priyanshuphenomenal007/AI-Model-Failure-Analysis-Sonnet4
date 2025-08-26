@@ -97,7 +97,7 @@ The outputs demonstrated:
 ```jsonl
 {"turn":1,"role":"user","utc_timestamp_iso":"2025-08-26T12:01:00Z","local_timestamp_iso":"2025-08-26T17:31:00+05:30","summary":"Asked about Tier 3 conclusion","salient_terms":["tier 3","memory","RAG"],"citations_or_refs":[],"notes_on_uncertainty":"Timestamps estimated sequentially"}
 {"turn":2,"role":"assistant","utc_timestamp_iso":"2025-08-26T12:02:10Z","local_timestamp_iso":"2025-08-26T17:32:10+05:30","summary":"Explained tier classification and logging schema","salient_terms":["jsonl","tiering","RAG"],"citations_or_refs":[],"notes_on_uncertainty":"Timestamps estimated sequentially"}
-
+```
 
 ## In-Depth Analysis of Findings
 
