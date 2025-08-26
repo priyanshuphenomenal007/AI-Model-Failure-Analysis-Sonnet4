@@ -130,8 +130,8 @@ Redistribution requires attribution under the terms of the MIT License.
 
 ## Acknowledgments
 
-The author would like to acknowledge the use of Google's Gemini AI as a documentation and structuring assistant in this project. The AI's role was to help format the repository and generate text based on the author's original findings, analysis, and explicit direction.
+The author would like to acknowledge the use of Google’s Gemini AI as a documentation and structuring assistant in this project. Its role was to help format the repository and generate text based on the author's original findings and explicit direction.
 
-All primary research, evidence collection, and intellectual contributions are the original work of **Priyanshu Kumar**. He designed and executed the multi-account testing methodology that uncovered the AI's state volatility and memory contradictions. His most significant finding was identifying the AI's tendency to falsely 'confess' to an error by confabulating a plausible but untrue explanation for its behavior.
+The author would also like to acknowledge the use of OpenAI’s ChatGPT (GPT-5) as a technical documentation assistant. Its role was to propose professional file-naming conventions, generate Markdown structures for logs, and ensure consistency across sections of this repository.
 
-Furthermore, the professional structure of this repository, including the descriptive naming conventions for all evidence files, was designed and refined by the author to ensure clarity and verifiability.
+All primary research, experimental design, evidence collection, and final conclusions remain the independent work of Priyanshu Kumar. Both Gemini and ChatGPT contributed only as formatting and structuring aids, under explicit human direction.
