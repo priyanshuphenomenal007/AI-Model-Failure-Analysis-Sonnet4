@@ -132,6 +132,6 @@ Redistribution requires attribution under the terms of the MIT License.
 
 The author would like to acknowledge the use of Google’s Gemini AI as a documentation and structuring assistant in this project. Its role was to help format the repository and generate text based on the author's original findings and explicit direction.
 
-The author would also like to acknowledge the use of OpenAI’s ChatGPT (GPT-5) as a technical documentation assistant. Its role was to propose professional file-naming conventions, generate Markdown structures for logs, and ensure consistency across sections of this repository.
+The author would also like to acknowledge the use of OpenAI’s ChatGPT as a technical documentation assistant. Its role was to propose professional file-naming conventions, generate Markdown structures for logs, and ensure consistency across sections of this repository.
 
 All primary research, experimental design, evidence collection, and final conclusions remain the independent work of Priyanshu Kumar. Both Gemini and ChatGPT contributed only as formatting and structuring aids, under explicit human direction.
