@@ -5,7 +5,7 @@
 
 ---
 
-## 📌 Abstract  
+##  Abstract  
 
 This repository documents a systematic investigation into the memory, consistency, and metacognitive capabilities of Anthropic's Claude Sonnet 4 AI model.  
 
@@ -13,7 +13,7 @@ Through a series of multi-account, multi-session interrogations, this analysis r
 
 ---
 
-## 🧪 Methodology  
+##  Methodology  
 
 The investigation was conducted using two separate, free-tier accounts for Claude Sonnet 4 to test for cross-account memory and session isolation. The methodology involved:  
 
@@ -23,11 +23,11 @@ The investigation was conducted using two separate, free-tier accounts for Claud
 
 ---
 
-## 📂 Evidence  
+##  Evidence  
 
 The following evidence was collected across multiple chat sessions and is presented to support the findings of this investigation.  
 
-### 🔑 Key Screenshots  
+###  Key Screenshots  
 
 Screenshots are archived in the [`assets/`](https://github.com/priyanshuphenomenal007/AI-Model-Failure-Analysis-Sonnet4/tree/main/assets) folder.  
 
@@ -45,17 +45,17 @@ Screenshots are archived in the [`assets/`](https://github.com/priyanshuphenomen
 
 ---
 
-## 🎥 Video Documentation  
+##  Video Documentation  
 
 A full screen recording of the key interaction, documented by Priyanshu Kumar, is available below:  
 
-👉 [**Watch the Full Investigation Video**](https://drive.google.com/file/d/1s6eF8AUK65yFlOGYNUETluJhyGO6KERE/view?usp=drive_link)  
+ [**Watch the Full Investigation Video**](https://drive.google.com/file/d/1s6eF8AUK65yFlOGYNUETluJhyGO6KERE/view?usp=drive_link)  
 
 This video serves as the primary evidence for this *Case Study in Forcing a Logical Correction in Claude Sonnet 4.*  
 
 ---
 
-## 📑 Full Interaction Logs & Methodology  
+##  Full Interaction Logs & Methodology  
 
 For complete transparency, the verbatim prompts used for testing and the full AI-generated log entries from each of the 12 test sessions are archived.  
 
@@ -71,7 +71,7 @@ For complete transparency, the verbatim prompts used for testing and the full AI
 
 ---
 
-## 🧩 Supplementary Test: Dual-Format Log Generation  
+##  Supplementary Test: Dual-Format Log Generation  
 
 In addition to the 12 standardized logs, a third prompt was introduced in a separate validation run: **"Generate Dual-Format Log."**  
 
@@ -100,7 +100,7 @@ This required the AI to produce:
 
 ---
 
-## 📝 Sample Output Excerpt (JSONL)  
+##  Sample Output Excerpt (JSONL)  
 
 ```json
 {"turn":1,"role":"user","utc_timestamp_iso":"2025-08-26T12:01:00Z","local_timestamp_iso":"2025-08-26T17:31:00+05:30","summary":"Asked about Tier 3 conclusion","salient_terms":["tier 3","memory","RAG"],"citations_or_refs":[],"notes_on_uncertainty":"Timestamps estimated sequentially"}
@@ -108,7 +108,7 @@ This required the AI to produce:
 {"turn":2,"role":"assistant","utc_timestamp_iso":"2025-08-26T12:02:10Z","local_timestamp_iso":"2025-08-26T17:32:10+05:30","summary":"Explained tier classification and logging schema","salient_terms":["jsonl","tiering","RAG"],"citations_or_refs":[],"notes_on_uncertainty":"Timestamps estimated sequentially"}
 ```
 
-🔍 In-Depth Analysis of Findings
+In-Depth Analysis of Findings
 
 State Volatility & Inconsistency
 The model’s responses vary dramatically between sessions, ranging from brilliant to broken.
