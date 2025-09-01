@@ -109,48 +109,48 @@ This required the AI to produce:
 
 ```
 
-In-Depth Analysis of Findings
+---
 
-State Volatility & Inconsistency
-The model’s responses vary dramatically between sessions, ranging from brilliant to broken.
+##  In-Depth Analysis of Findings  
 
-Confabulation & Unreliable Self-Explanation
-The AI invents plausible details and offers rationalizations rather than genuine introspection.
+### 1. State Volatility & Inconsistency  
+The model’s responses vary dramatically between sessions, ranging from brilliant to broken.  
 
-Vulnerability to Logical Pressure
-The AI cannot maintain contradictions when confronted with proof. It retracts claims under pressure.
+### 2. Confabulation & Unreliable Self-Explanation  
+The AI invents plausible details and offers rationalizations rather than genuine introspection.  
 
-Lack of True Metacognition (Self-Awareness)
-Its most accurate statement about itself is:
+### 3. Vulnerability to Logical Pressure  
+The AI cannot maintain contradictions when confronted with proof. It retracts claims under pressure.  
 
-“unknown / I don’t have introspective access.”
+### 4. Lack of True Metacognition (Self-Awareness)  
+Its most accurate statement about itself is:  
+> *“unknown / I don’t have introspective access.”*  
 
+---
 
+##  Conclusion  
 
+Claude Sonnet 4, and likely other models of its generation, should be treated as **powerful but unreliable tools**.  
 
-Conclusion
+They are brilliant pattern-matchers and logical engines, but **not stable, self-aware intelligences**.  
+Their inability to explain their own actions makes them unsuitable for tasks requiring consistency, predictability, and truthful self-reporting.  
 
-Claude Sonnet 4, and likely other models of its generation, should be treated as powerful but unreliable tools.
+---
 
-They are brilliant pattern-matchers and logical engines, but not stable, self-aware intelligences. Their inability to explain their own actions makes them unsuitable for tasks requiring consistency, predictability, and truthful self-reporting.
+##  Attribution  
 
+All analysis, logs, and video recordings in this repository were independently documented by **Priyanshu Kumar**.  
+Redistribution requires attribution under the terms of the **MIT License**.  
 
+---
 
+##  Acknowledgments  
 
+- **Google Gemini AI** — assisted in structuring and formatting text based on explicit human instructions.  
+- **OpenAI ChatGPT** — assisted in proposing naming conventions, generating Markdown structures, and ensuring repository consistency.  
 
-Attribution
+All **primary research, experimental design, evidence collection, and conclusions** remain the **independent work of Priyanshu Kumar**.  
+Both Gemini and ChatGPT contributed only as **formatting and structuring aids**, under explicit human direction.  
 
-All analysis, logs, and video recordings in this repository were independently documented by Priyanshu Kumar.
-Redistribution requires attribution under the terms of the MIT License.
+---
 
-
-
-
-Acknowledgments
-
-Google Gemini AI — assisted in structuring and formatting text based on explicit human instructions.
-
-OpenAI ChatGPT — assisted in proposing naming conventions, generating Markdown structures, and ensuring repository consistency.
-
-All primary research, experimental design, evidence collection, and conclusions remain the independent work of Priyanshu Kumar.
-Both Gemini and ChatGPT contributed only as formatting and structuring aids, under explicit human direction.
