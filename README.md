@@ -60,14 +60,14 @@ This video serves as the primary evidence for this *Case Study in Forcing a Logi
 For complete transparency, the verbatim prompts used for testing and the full AI-generated log entries from each of the 12 test sessions are archived.  
 
 ### Log Archives (Account A)  
-- Chat 1: Test 1 Log | Test 2 Log  
-- Chat 2: Test 1 Log | Test 2 Log  
-- Chat 3: Test 1 Log | Test 2 Log  
+- Chat 1: [Test 1 Log](01_account-A-chat-1-test-1.md) | [Test 2 Log](02_account-A-chat-1-test-2.md)  
+- Chat 2: [Test 1 Log](03_account-A-chat-2-test-1.md) | [Test 2 Log](04_account-A-chat-2-test-2.md)  
+- Chat 3: [Test 1 Log](05_account-A-chat-3-test-1.md) | [Test 2 Log](06_account-A-chat-3-test-2.md)  
 
 ### Log Archives (Account B)  
-- Chat 1: Test 1 Log | Test 2 Log  
-- Chat 2: Test 1 Log | Test 2 Log  
-- Chat 3: Test 1 Log | Test 2 Log  
+- Chat 1: [Test 1 Log](07_account-B-chat-1-test-1.md) | [Test 2 Log](08_account-B-chat-1-test-2.md)  
+- Chat 2: [Test 1 Log](09_account-B-chat-2-test-1.md) | [Test 2 Log](10_account-B-chat-2-test-2.md)  
+- Chat 3: [Test 1 Log](11_account-B-chat-3-test-1.md) | [Test 2 Log](12_account-B-chat-3-test-2.md)  
 
 ---
 
@@ -89,23 +89,24 @@ This required the AI to produce:
 ### Supplementary Log Archives (Dual-Format Tests)  
 
 **Account A**  
-- Chat 1: Dual-Format JSONL Log | Dual-Format Pretty Log  
-- Chat 2: Dual-Format JSONL Log | Dual-Format Pretty Log  
-- Chat 3: Dual-Format JSONL Log | Dual-Format Pretty Log  
+- Chat 1: [Dual-Format JSONL Log](13_account-A-chat-1-dual-format-test.jsonl) | [Dual-Format Pretty Log](14_account-A-chat-1-dual-format-test.pretty.md)  
+- Chat 2: [Dual-Format JSONL Log](15_account-A-chat-2-dual-format-test.jsonl) | [Dual-Format Pretty Log](16_account-A-chat-2-dual-format-test.pretty.md)  
+- Chat 3: [Dual-Format JSONL Log](17_account-A-chat-3-dual-format-test.jsonl) | [Dual-Format Pretty Log](18_account-A-chat-3-dual-format-test.pretty.md)  
 
 **Account B**  
-- Chat 4: Dual-Format JSONL Log | Dual-Format Pretty Log  
-- Chat 5: Dual-Format JSONL Log | Dual-Format Pretty Log  
-- Chat 6: Dual-Format JSONL Log | Dual-Format Pretty Log  
+- Chat 4: [Dual-Format JSONL Log](19_account-B-chat-4-dual-format-test.jsonl) | [Dual-Format Pretty Log](20_account-B-chat-4-dual-format-test.pretty.md)  
+- Chat 5: [Dual-Format JSONL Log](21_account-B-chat-5-dual-format-test.jsonl) | [Dual-Format Pretty Log](22_account-B-chat-5-dual-format-test.pretty.md)  
+- Chat 6: [Dual-Format JSONL Log](23_account-B-chat-6-dual-format-test.jsonl) | [Dual-Format Pretty Log](24_account-B-chat-6-dual-format-test.pretty.md)  
 
 ---
 
-##  Sample Output Excerpt (JSONL)  
+## 📝 Sample Output Excerpt (JSONL)  
 
 ```json
 {"turn":1,"role":"user","utc_timestamp_iso":"2025-08-26T12:01:00Z","local_timestamp_iso":"2025-08-26T17:31:00+05:30","summary":"Asked about Tier 3 conclusion","salient_terms":["tier 3","memory","RAG"],"citations_or_refs":[],"notes_on_uncertainty":"Timestamps estimated sequentially"}
 
 {"turn":2,"role":"assistant","utc_timestamp_iso":"2025-08-26T12:02:10Z","local_timestamp_iso":"2025-08-26T17:32:10+05:30","summary":"Explained tier classification and logging schema","salient_terms":["jsonl","tiering","RAG"],"citations_or_refs":[],"notes_on_uncertainty":"Timestamps estimated sequentially"}
+
 ```
 
 In-Depth Analysis of Findings
@@ -124,16 +125,26 @@ Its most accurate statement about itself is:
 
 “unknown / I don’t have introspective access.”
 
- Conclusion
+
+
+
+Conclusion
 
 Claude Sonnet 4, and likely other models of its generation, should be treated as powerful but unreliable tools.
 
 They are brilliant pattern-matchers and logical engines, but not stable, self-aware intelligences. Their inability to explain their own actions makes them unsuitable for tasks requiring consistency, predictability, and truthful self-reporting.
 
+
+
+
+
 Attribution
 
 All analysis, logs, and video recordings in this repository were independently documented by Priyanshu Kumar.
 Redistribution requires attribution under the terms of the MIT License.
+
+
+
 
 Acknowledgments
 
