@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as below."
+title: "An Investigation into the State Volatility and Memory Contradictions of Claude Sonnet 4"
+authors:
+  - family-names: "Kumar"
+    given-names: "Priyanshu"
+    orcid: "https://orcid.org/0009-0006-8198-193X"
+date-released: 2025-09-01
+version: "1.0.0"
+doi: "10.48550/arXiv.to-be-added"   # You can update this once your arXiv paper is live
+repository-code: "https://github.com/priyanshuphenomenal007/AI-Model-Failure-Analysis-Sonnet4"
+license: "MIT / CC-BY-4.0"
+abstract: >
+  This repository documents a systematic investigation into Anthropic's Claude Sonnet 4 model, 
+  highlighting state volatility, memory contradictions, and unreliable self-awareness across 
+  multiple sessions. Findings are supported with logs, screenshots, and video evidence.
