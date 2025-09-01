@@ -7,7 +7,7 @@ authors:
     orcid: "https://orcid.org/0009-0006-8198-193X"
 date-released: 2025-09-01
 version: "1.0.0"
-doi: "10.48550/arXiv.to-be-added"   # You can update this once your arXiv paper is live
+doi: "10.48550/arXiv.to-be-added"  
 repository-code: "https://github.com/priyanshuphenomenal007/AI-Model-Failure-Analysis-Sonnet4"
 license: "MIT / CC-BY-4.0"
 abstract: >

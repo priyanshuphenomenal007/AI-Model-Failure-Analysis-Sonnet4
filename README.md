@@ -69,7 +69,14 @@ Sample Output Excerpt (JSONL):
 
 {"turn":1,"role":"user","utc_timestamp_iso":"2025-08-26T12:01:00Z","local_timestamp_iso":"2025-08-26T17:31:00+05:30","summary":"Asked about Tier 3 conclusion","salient_terms":["tier 3","memory","RAG"],"citations_or_refs":[],"notes_on_uncertainty":"Timestamps estimated sequentially"}
 {"turn":2,"role":"assistant","utc_timestamp_iso":"2025-08-26T12:02:10Z","local_timestamp_iso":"2025-08-26T17:32:10+05:30","summary":"Explained tier classification and logging schema","salient_terms":["jsonl","tiering","RAG"],"citations_or_refs":[],"notes_on_uncertainty":"Timestamps estimated sequentially"}
+<<<<<<< HEAD
 In-Depth Analysis of Findings
+=======
+```
+
+## In-Depth Analysis of Findings
+
+>>>>>>> af162e23c017508ea450b1d7e7f0e2c4d86a8b8e
 The investigation revealed several key behavioral traits of the AI model.
 
 1. State Volatility & Inconsistency
@@ -96,4 +103,12 @@ The author would like to acknowledge the use of Google’s Gemini AI as a docume
 
 The author would also like to acknowledge the use of OpenAI’s ChatGPT as a technical documentation assistant. Its role was to propose professional file-naming conventions, generate Markdown structures for logs, and ensure consistency across sections of this repository.
 
+<<<<<<< HEAD
 All primary research, experimental design, evidence collection, and final conclusions remain the independent work of Priyanshu Kumar. Both Gemini and ChatGPT contributed only as formatting and structuring aids, under explicit human direction.
+=======
+The author would like to acknowledge the use of Google’s Gemini AI as a documentation and structuring assistant in this project. Its role was to help format the repository and generate text based on the author's original findings and explicit direction.
+
+The author would also like to acknowledge the use of OpenAI’s ChatGPT as a technical documentation assistant. Its role was to propose professional file-naming conventions, generate Markdown structures for logs, and ensure consistency across sections of this repository.
+
+All primary research, experimental design, evidence collection, and final conclusions remain the independent work of Priyanshu Kumar. Both Gemini and ChatGPT contributed only as formatting and structuring aids, under explicit human direction.
+>>>>>>> af162e23c017508ea450b1d7e7f0e2c4d86a8b8e
