@@ -140,7 +140,7 @@ Their inability to explain their own actions makes them unsuitable for tasks req
 ##  Attribution  
 
 All analysis, logs, and video recordings in this repository were independently documented by **Priyanshu Kumar**.  
-This repository is released under the CC-BY 4.0 license. Redistribution and adaptation are allowed, provided appropriate attribution is given to the original author. See LICENSE.md for details.
+This repository is released under the CC-BY 4.0 license. Redistribution and adaptation are allowed, provided appropriate attribution is given to the original author. See LICENSE_CC.md for details.
 
 ---
 
