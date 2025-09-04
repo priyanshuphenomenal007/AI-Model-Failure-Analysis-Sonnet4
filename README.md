@@ -179,9 +179,5 @@ Both Gemini and ChatGPT contributed only as **formatting and structuring aids**,
 
 ---
 
-## Access Note
-The full video evidence is hosted with **link-only viewer access**.  
-It is **not public, not indexed, and not searchable** — ensuring controlled distribution.  
-This balance keeps the research transparent while preventing accidental exposure.
 
 
