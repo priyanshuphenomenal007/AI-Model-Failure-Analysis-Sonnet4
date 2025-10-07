@@ -165,13 +165,14 @@ Both Gemini and ChatGPT contributed only as **formatting and structuring aids**,
 ---
 
 
-##  Acknowledgments  
+## ⚠️ **Important Notice (Added October 2025):** 
 
-- **Google Gemini AI** — assisted in structuring and formatting text based on explicit human instructions.  
-- **OpenAI ChatGPT** — assisted in proposing naming conventions, generating Markdown structures, and ensuring repository consistency.  
 
-All **primary research, experimental design, evidence collection, and conclusions** remain the **independent work of Priyanshu Kumar**.  
-Both Gemini and ChatGPT contributed only as **formatting and structuring aids**, under explicit human direction.  
+- This repository documents a **student-led, independent analysis** of conversational AI behavior using the **public, free web interface** of Anthropic’s Claude model.  
+- No proprietary access, reverse engineering, or confidential data were involved.  
+- Screenshots showing the model’s interface are included **only for educational documentation** under fair use.  
+- This project is **not affiliated with, endorsed by, or connected to Anthropic, OpenAI, or Google** in any way.  
+- The goal of this investigation is purely **academic and educational** — to understand the logical behavior and limitations of modern AI systems.
 
 ---
 
