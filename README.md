@@ -7,12 +7,12 @@
 
 ## ⚠️ **Important Notice (Added October 2025):** 
 
-- This repository presents a **student-led, independent research audit** examining conversational and memory behavior observed in the **public web interface** of Google’s Gemini 2.5 Pro model.  
-- The work reflects the author’s role as both a **researcher and computer science student**, conducted entirely through **publicly accessible, free-tier systems** under normal user conditions.  
-- No proprietary access, internal data, or confidential materials were involved.  
-- All screenshots, transcripts, and structured logs are included **solely for educational and research documentation under fair-use provisions**.  
-- This project is **not affiliated with, endorsed by, or connected to Google, OpenAI, or Anthropic** in any way.  
-- The purpose of this audit is purely **academic and educational** — to study, document, and understand the logical behavior, recall characteristics, and self-consistency limitations of large-scale conversational AI systems.
+- This repository presents a **student-led, independent research investigation** analyzing conversational behavior and logical consistency observed in the **public free-tier web interface** of Anthropic’s Claude Sonnet 4 model.  
+- The project reflects the author’s dual role as an **independent researcher and computer science student**, combining formal academic study with self-directed experimentation.  
+- All testing was performed using **only publicly available, standard user access**—no proprietary systems, internal data, or confidential information were involved.  
+- Screenshots, transcripts, and analytical logs are provided **solely for educational and research documentation under fair-use provisions**.  
+- This work is **not affiliated with, endorsed by, or connected to Anthropic, OpenAI, or Google** in any way.  
+- The purpose of this investigation is purely **academic and educational**—to study, document, and better understand the reasoning patterns, memory behavior, and self-referential limitations of large conversational AI systems.
 
 
 ---
