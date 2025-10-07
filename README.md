@@ -175,8 +175,8 @@ Both Gemini and ChatGPT contributed only as **formatting and structuring aids**,
 
 ---
 
+*Note: This clarification notice was added in October 2025 to ensure full transparency regarding the research methods, ethical intent, and data sources used in this project.*
 
-
-
+---
 
 
