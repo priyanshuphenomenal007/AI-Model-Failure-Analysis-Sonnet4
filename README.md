@@ -8,11 +8,14 @@
 ## ⚠️ **Important Notice (Added October 2025):** 
 
 
-- This repository documents a **student-led, independent analysis** of conversational AI behavior using the **public, free web interface** of Anthropic’s Claude model.  
-- No proprietary access, reverse engineering, or confidential data were involved.  
-- Screenshots showing the model’s interface are included **only for educational documentation** under fair use.  
-- This project is **not affiliated with, endorsed by, or connected to Anthropic, OpenAI, or Google** in any way.  
-- The goal of this investigation is purely educational and part of independent student research — to understand the logical behavior and limitations of modern AI systems.
+> ⚠️ **Important Notice (Added October 2025):**  
+- This repository presents a **student-led, independent research audit** examining conversational and memory behavior observed in the **public web interface** of Google’s Gemini 2.5 Pro model.  
+- The work reflects the author’s role as both a **researcher and computer science student**, conducted entirely through **publicly accessible, free-tier systems** under normal user conditions.  
+- No proprietary access, internal data, or confidential materials were involved.  
+- All screenshots, transcripts, and structured logs are included **solely for educational and research documentation under fair-use provisions**.  
+- This project is **not affiliated with, endorsed by, or connected to Google, OpenAI, or Anthropic** in any way.  
+- The purpose of this audit is purely **academic and educational** — to study, document, and understand the logical behavior, recall characteristics, and self-consistency limitations of large-scale conversational AI systems.
+
 
 ---
 
@@ -175,7 +178,11 @@ Both Gemini and ChatGPT contributed only as **formatting and structuring aids**,
 
 ---
 
-*Note: This clarification notice was added in October 2025 to ensure full transparency regarding the research methods, ethical intent, and data sources used in this project.*
+---
+
+*Note: This clarification notice was added in October 2025 to ensure full transparency regarding the research methods, ethical scope, and academic intent of this project.  
+The author conducted this audit independently as part of personal academic exploration into AI system behavior and reliability.*
+
 
 ---
 
