@@ -12,7 +12,7 @@
 - No proprietary access, reverse engineering, or confidential data were involved.  
 - Screenshots showing the model’s interface are included **only for educational documentation** under fair use.  
 - This project is **not affiliated with, endorsed by, or connected to Anthropic, OpenAI, or Google** in any way.  
-- The goal of this investigation is purely **academic and educational** — to understand the logical behavior and limitations of modern AI systems.
+- The goal of this investigation is purely educational and part of independent student research — to understand the logical behavior and limitations of modern AI systems.
 
 ---
 
