@@ -7,8 +7,6 @@
 
 ## ⚠️ **Important Notice (Added October 2025):** 
 
-
-> ⚠️ **Important Notice (Added October 2025):**  
 - This repository presents a **student-led, independent research audit** examining conversational and memory behavior observed in the **public web interface** of Google’s Gemini 2.5 Pro model.  
 - The work reflects the author’s role as both a **researcher and computer science student**, conducted entirely through **publicly accessible, free-tier systems** under normal user conditions.  
 - No proprietary access, internal data, or confidential materials were involved.  
